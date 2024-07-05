@@ -12,11 +12,7 @@ This repository is dedicated to the study of linear separability measures, inclu
 
 ## Usage
 
-Follow the instructions provided in each script or module to ensure proper execution. Make sure you have the necessary environment and dependencies installed.
-
-## Contributions
-
-Contributions to this repository are welcome, whether they involve adding new features, improving code, or updating documentation. Please submit Pull Requests or raise Issues.
+We'll provide a tutorial in a few weeks .
 
 ## License
 
@@ -24,5 +20,5 @@ This project is licensed under the MIT License. For more details, please refer t
 
 ## Contact
 
-If you have any questions or suggestions, please contact us through my Email Lws@mail.dlut.edu.cn.
+If you have any questions or suggestions, please contact us through my email Lws@mail.dlut.edu.cn.
 
