@@ -4,14 +4,11 @@ This repository is dedicated to the study of linear separability measures, inclu
 
 ## Research Papers
 
-1. **Understanding Deep Neural Networks via Linear Separability of Hidden Layers**  
-   [Paper Link](<insert-link-here>)
+1. **Understanding Deep Neural Networks via Linear Separability of Hidden Layers**  [Paper Link](https://arxiv.org/abs/2307.13962)
 
-2. **Quantifying the Separability of Data Classes in Neural Networks**  
-   [Paper Link](<insert-link-here>)
+2. **Quantifying the Separability of Data Classes in Neural Networks**  [Paper Link](https://www.sciencedirect.com/science/article/pii/S0893608021001234)
 
-3. **A Law of Data Separation in Deep Learning**  
-   [Paper Link](<insert-link-here>)
+3. **A Law of Data Separation in Deep Learning**  [Paper Link](https://www.pnas.org/doi/full/10.1073/pnas.2221704120)
 
 ## Usage
 
