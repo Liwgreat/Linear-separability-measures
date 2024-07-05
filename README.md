@@ -24,5 +24,5 @@ This project is licensed under the MIT License. For more details, please refer t
 
 ## Contact
 
-If you have any questions or suggestions, please contact us through [GitHub issues](<insert-github-issue-link>).
+If you have any questions or suggestions, please contact us through [my Email](Lws@mail.dlut.edu.cn).
 
