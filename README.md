@@ -10,6 +10,10 @@ This repository is dedicated to the study of linear separability measures, inclu
 
 3. **A Law of Data Separation in Deep Learning**  [Paper Link](https://www.pnas.org/doi/full/10.1073/pnas.2221704120)
 
+4. **Feature learning in deep classifiers through Intermediate Neural Collapse**  [Paper Link](https://proceedings.mlr.press/v202/rangamani23a.html)
+
+5. **Nearest Class-Center Simplification through Intermediate Layers**  [Paper Link](https://proceedings.mlr.press/v196/ben-shaul22a.html)
+   
 ## Usage
 
 We'll provide a tutorial in a few weeks .
